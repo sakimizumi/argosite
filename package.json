@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "static blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakimizumi/argosite.git"
+  },
+  "author": "scy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakimizumi/argosite/issues"
+  },
+  "homepage": "https://github.com/sakimizumi/argosite#readme"
+}
